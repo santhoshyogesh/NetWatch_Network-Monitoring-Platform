@@ -146,13 +146,11 @@ Monitors excessive traffic from a single source IP.
 
 ### Dashboard
 
-dashboard.png.png
+<img src="dashboard.png.png" width="900">
 
 ### PDF Report
 
-```text
-screenshots/report.png
-```
+<img src="report.png.png" width="900">
 
 ## 👨‍💻 Author
 
