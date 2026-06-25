@@ -146,9 +146,7 @@ Monitors excessive traffic from a single source IP.
 
 ### Dashboard
 
-```text
-screenshots/dashboard.png
-```
+dashboard.png.png
 
 ### PDF Report
 
